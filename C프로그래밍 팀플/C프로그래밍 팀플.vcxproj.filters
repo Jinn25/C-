@@ -21,7 +21,7 @@
     <ClCompile Include="checkflag.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="playrmove.c">
+    <ClCompile Include="playermove.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="main.c">

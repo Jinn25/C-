@@ -130,7 +130,7 @@
     <ClCompile Include="checkflag.c" />
     <ClCompile Include="gotoxy.c" />
     <ClCompile Include="main.c" />
-    <ClCompile Include="playrmove.c" />
+    <ClCompile Include="playermove.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h" />
